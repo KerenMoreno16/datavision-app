@@ -14,7 +14,7 @@
 
 ### Dashboard
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](../screenshots/dashboard.png)
 
 ---
 
